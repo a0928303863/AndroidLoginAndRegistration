@@ -1,0 +1,22 @@
+#Thu Jun 22 15:01:23 CST 2017
+renamed.6=classes5.dex
+renamed.5=classes.dex
+renamed.4=classes3.dex
+renamed.3=classes2.dex
+renamed.2=classes4.dex
+renamed.1=classes6.dex
+renamed.0=classes7.dex
+base.6=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_edae6a0c44c023e88968b3cc7de226166b0ac23e
+base.5=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_071001d637e8556522febf3bdd972803e0dbce60
+base.4=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_65d326779643548513198527f378295c24c98dbd
+base.3=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4c41733d6bc7f1ddb614c8361c0d1e82aa67e1b5
+base.2=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6f35ae70160365332d0d49d1ff1f0d343cda57b7
+base.1=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_0922b2e72ffc35e1731c9f4028e0c17c3df72eda
+base.0=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_d7f45453073da6d4887e05aff4b74b269ce3267a
+file.6=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_edae6a0c44c023e88968b3cc7de226166b0ac23e\\classes.dex
+file.5=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_071001d637e8556522febf3bdd972803e0dbce60\\classes.dex
+file.4=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_65d326779643548513198527f378295c24c98dbd\\classes.dex
+file.3=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4c41733d6bc7f1ddb614c8361c0d1e82aa67e1b5\\classes.dex
+file.2=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6f35ae70160365332d0d49d1ff1f0d343cda57b7\\classes.dex
+file.1=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_0922b2e72ffc35e1731c9f4028e0c17c3df72eda\\classes.dex
+file.0=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_d7f45453073da6d4887e05aff4b74b269ce3267a\\classes.dex
