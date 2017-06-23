@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">藥小心</string>
+    <string name="btn_link_to_login">已經註冊了！按我登入</string>
+    <string name="btn_link_to_register">還不是會員？按我註冊</string>
+    <string name="btn_login">登入</string>
+    <string name="btn_logout">登出</string>
+    <string name="btn_register">註冊</string>
+    <string name="hint_email">請輸入電子郵件</string>
+    <string name="hint_name">請輸入姓名</string>
+    <string name="hint_password">請輸入密碼</string>
+    <string name="welcome">歡迎</string>
+    <string name="birthday">生日</string>
+    <string name="man">男生</string>
+    <string name="woman">女生</string>
+    <string name="rigister">會員註冊</string>
+    <string name="cellphone">請輸入手機</string>
+    <string name="medicalAlert">用藥提醒</string>
+    <string name="medicalRecord">用藥紀錄</string>
+    <string name="urgentHelp">緊急救護資訊與定位</string>
+    <string name="medicalInformation">疾病常識與防疫措施</string>
+    <string name="myFavourite">關懷我的最愛</string>
+</resources>

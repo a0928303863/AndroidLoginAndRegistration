@@ -1,4 +1,4 @@
-#Thu Jun 22 15:01:23 CST 2017
+#Fri Jun 23 15:24:39 CST 2017
 base.0=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
 renamed.0=classes.dex
 file.0=C\:\\Users\\CJCU\\AndroidStudioProjects\\AndroidLoginAndRegistration v2\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

@@ -22,17 +22,15 @@
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <color name="bg_login">#26ae90</color>
-    <color name="bg_main">#428bca</color>
-    <color name="bg_register">#2e3237</color>
+    <color name="bg_icon">#354a5f</color>
+    <color name="bg_login">#32879c</color>
+    <color name="bg_register">#d5ebf4</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
     <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
     <color name="bright_foreground_material_dark">@android:color/white</color>
     <color name="bright_foreground_material_light">@android:color/black</color>
-    <color name="btn_login">#26ae90</color>
-    <color name="btn_login_bg">#eceef1</color>
     <color name="btn_logut_bg">#ff6861</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
@@ -276,20 +274,33 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">Android Login and Registration</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Be careful of medicine</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="birthday">birthday</string>
     <string name="btn_link_to_login">Already registred! Login Me.</string>
     <string name="btn_link_to_register">Not a member? Sign up now.</string>
     <string name="btn_login">LOGIN</string>
     <string name="btn_logout">LOGOUT</string>
     <string name="btn_register">REGISTER</string>
+    <string name="cellphone">Cellphone</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="hint_email">Email</string>
     <string name="hint_name">Fullname</string>
     <string name="hint_password">Password</string>
-    <string name="name">Fullname</string>
+    <string name="man">man</string>
+    <string name="medicalAlert">medicalAlert</string>
+    <string name="medicalInformation">medicalInformation</string>
+    <string name="medicalRecord">medicalRecord</string>
+    <string name="myFavourite">myFavourite</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="rigister">Rigister</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="urgentHelp">urgentHelp</string>
     <string name="welcome">Welcome</string>
+    <string name="woman">woman</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
